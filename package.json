@@ -1,0 +1,54 @@
+{
+  "_from": "@darkengines/polymerfire",
+  "_id": "@darkengines/polymerfire@3.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-seGoRjsjO59VqxXwUeA4PwhQlLzjQSU3duJaF7k/9zQ9JM7mYMDMl5C1HwuY05c1ach6tnZFoswia884wccwBQ==",
+  "_location": "/@darkengines/polymerfire",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@darkengines/polymerfire",
+    "name": "@darkengines/polymerfire",
+    "escapedName": "@darkengines%2fpolymerfire",
+    "scope": "@darkengines",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@darkengines/polymerfire/-/polymerfire-3.0.0.tgz",
+  "_shasum": "bf536ab5ed1e9de6ad112477a3420fa4cfc2dec1",
+  "_spec": "@darkengines/polymerfire",
+  "_where": "/Users/vhollo/Google Drive/webdev/szentendre-sapper",
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Firebase"
+    },
+    {
+      "name": "Darkengines"
+    }
+  ],
+  "dependencies": {
+    "@polymer/app-storage": "^3.0.0-pre.1",
+    "@polymer/polymer": "^3.0.0-pre.1"
+  },
+  "deprecated": false,
+  "description": "Polymer Web Components for Firebase",
+  "devDependencies": {},
+  "flat": true,
+  "homepage": "https://github.com/firebase/polymerfire",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "firebase"
+  ],
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "main": "polymerfire.html",
+  "name": "@darkengines/polymerfire",
+  "version": "3.0.0"
+}
