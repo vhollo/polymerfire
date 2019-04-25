@@ -1,11 +1,12 @@
-import '../../@polymer/polymer/polymer.js';
+import '@polymer/polymer/polymer-element.js';
 import './firebase-app-script.js';
 import './firebase-database-script.js';
 import './firebase-auth-script.js';
 import './firebase-storage-script.js';
 import './firebase-messaging-script.js';
 import './firebase-firestore-script.js';
-import { Polymer } from '../../@polymer/polymer/lib/legacy/polymer-fn.js';
+import { Polymer } from '@polymer/polymer/lib/legacy/polymer-fn.js';
+import { firebase } from '@firebase/app';
 
 /**
  * The firebase-app element is used for initializing and configuring your

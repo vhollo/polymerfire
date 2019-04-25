@@ -1,1 +1,1 @@
-import '../../firebase/firebase-firestore.js';
+import 'firebase/firebase-firestore.js';

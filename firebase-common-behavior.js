@@ -1,5 +1,5 @@
-import '../../@polymer/polymer/polymer.js';
-import { AppNetworkStatusBehavior } from '../../@polymer/app-storage/app-network-status-behavior.js';
+import '@polymer/polymer/polymer-element.js';
+import { AppNetworkStatusBehavior } from '@polymer/app-storage/app-network-status-behavior.js';
 import './firebase-app-script.js';
 
 export const FirebaseCommonBehaviorImpl = {

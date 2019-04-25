@@ -1,4 +1,4 @@
-import '../../@polymer/polymer/polymer.js';
+import '@polymer/polymer/polymer-element.js';
 import { FirebaseCommonBehavior } from './firebase-common-behavior.js';
 import './firebase-storage-script.js';
 

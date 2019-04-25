@@ -1,6 +1,6 @@
-import '../../@polymer/polymer/polymer.js';
+import '@polymer/polymer/polymer-element.js';
 import { FirebaseStorageBehavior } from './firebase-storage-behavior.js';
-import { Polymer } from '../../@polymer/polymer/lib/legacy/polymer-fn.js';
+import { Polymer } from '@polymer/polymer/lib/legacy/polymer-fn.js';
 
 /**
 * The firebase-storage-ref element is an easy way to interact with a firebase

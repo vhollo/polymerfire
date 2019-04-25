@@ -1,6 +1,6 @@
-import '../../@polymer/polymer/polymer.js';
+import '@polymer/polymer/polymer-element.js';
 import { FirebaseDatabaseBehavior } from './firebase-database-behavior.js';
-import { Polymer } from '../../@polymer/polymer/lib/legacy/polymer-fn.js';
+import { Polymer } from '@polymer/polymer/lib/legacy/polymer-fn.js';
 
 Polymer({
   is: 'firebase-query',

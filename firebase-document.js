@@ -1,6 +1,6 @@
-import '../../@polymer/polymer/polymer.js';
+import '@polymer/polymer/polymer-element.js';
 import { FirebaseDatabaseBehavior } from './firebase-database-behavior.js';
-import { Polymer } from '../../@polymer/polymer/lib/legacy/polymer-fn.js';
+import { Polymer } from '@polymer/polymer/lib/legacy/polymer-fn.js';
 /**
 @license
 Copyright 2016 Google Inc. All Rights Reserved.
