@@ -7,8 +7,8 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "vhollo/polymerfire",
-    "rawSpec": "vhollo/polymerfire",
+    "raw": "github:vhollo/polymerfire",
+    "rawSpec": "github:vhollo/polymerfire",
     "saveSpec": "github:vhollo/polymerfire",
     "fetchSpec": null,
     "gitCommittish": null
@@ -17,10 +17,11 @@
     "#USER",
     "/"
   ],
-  "_resolved": "github:vhollo/polymerfire#1ab5de27e3440ec824893dac38596d87961f1773",
+  "_resolved": "github:vhollo/polymerfire#5e42c4cfdc645f775d6e5b8e2dce9b9d10bfec4f",
   "_shasum": "bf536ab5ed1e9de6ad112477a3420fa4cfc2dec1",
-  "_spec": "vhollo/polymerfire",
-  "bundleDependencies": false,
+  "_spec": "github:vhollo/polymerfire",
+  "_where": "/Users/vhollo/Google Drive/webdev/szentendre-sapper",
+  "bundleDependencies": [],
   "contributors": [
     {
       "name": "Firebase"
@@ -33,6 +34,7 @@
     }
   ],
   "dependencies": {
+    "firebase": "^5.10.0",
     "@polymer/app-storage": "^3.0.0",
     "@polymer/polymer": "^3.0.0"
   },
